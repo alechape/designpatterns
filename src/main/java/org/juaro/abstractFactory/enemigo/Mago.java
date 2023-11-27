@@ -1,4 +1,4 @@
-package org.juaro.abstractFactory;
+package org.juaro.abstractFactory.enemigo;
 
 public class Mago implements Enemigo{
     @Override

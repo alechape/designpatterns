@@ -1,4 +1,4 @@
-package org.juaro.abstractFactory;
+package org.juaro.abstractFactory.armadura;
 
 public class Tunica implements Armadura{
     @Override

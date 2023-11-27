@@ -1,4 +1,4 @@
-package org.juaro.abstractFactory;
+package org.juaro.abstractFactory.enemigo;
 
 public class Guerrero implements Enemigo {
 

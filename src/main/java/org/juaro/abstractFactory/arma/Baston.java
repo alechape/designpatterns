@@ -1,4 +1,4 @@
-package org.juaro.abstractFactory;
+package org.juaro.abstractFactory.arma;
 
 public class Baston implements Arma {
     @Override
